@@ -1,0 +1,21 @@
+C:\Users\Wlady\source\repos\FirstCourseProject\FirstCourseProject\obj\Debug\FirstCourseProject.csproj.AssemblyReference.cache
+C:\Users\Wlady\source\repos\FirstCourseProject\FirstCourseProject\obj\Debug\FirstCourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wlady\source\repos\FirstCourseProject\FirstCourseProject\obj\Debug\FirstCourseProject.Form1.resources
+C:\Users\Wlady\source\repos\FirstCourseProject\FirstCourseProject\obj\Debug\FirstCourseProject.Properties.Resources.resources
+C:\Users\Wlady\source\repos\FirstCourseProject\FirstCourseProject\obj\Debug\FirstCourseProject.csproj.GenerateResource.cache
+C:\Users\Wlady\source\repos\FirstCourseProject\FirstCourseProject\obj\Debug\FirstCourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Wlady\source\repos\FirstCourseProject\FirstCourseProject\bin\Debug\FirstCourseProject.exe.config
+C:\Users\Wlady\source\repos\FirstCourseProject\FirstCourseProject\bin\Debug\FirstCourseProject.exe
+C:\Users\Wlady\source\repos\FirstCourseProject\FirstCourseProject\bin\Debug\FirstCourseProject.pdb
+C:\Users\Wlady\source\repos\FirstCourseProject\FirstCourseProject\obj\Debug\FirstCourseProject.exe
+C:\Users\Wlady\source\repos\FirstCourseProject\FirstCourseProject\obj\Debug\FirstCourseProject.pdb
+C:\Users\Wlady\OneDrive\ЖГМК\Рабочий стол\FirstCourseProject\FirstCourseProject\bin\Debug\FirstCourseProject.exe.config
+C:\Users\Wlady\OneDrive\ЖГМК\Рабочий стол\FirstCourseProject\FirstCourseProject\bin\Debug\FirstCourseProject.exe
+C:\Users\Wlady\OneDrive\ЖГМК\Рабочий стол\FirstCourseProject\FirstCourseProject\bin\Debug\FirstCourseProject.pdb
+C:\Users\Wlady\OneDrive\ЖГМК\Рабочий стол\FirstCourseProject\FirstCourseProject\obj\Debug\FirstCourseProject.csproj.AssemblyReference.cache
+C:\Users\Wlady\OneDrive\ЖГМК\Рабочий стол\FirstCourseProject\FirstCourseProject\obj\Debug\FirstCourseProject.Properties.Resources.resources
+C:\Users\Wlady\OneDrive\ЖГМК\Рабочий стол\FirstCourseProject\FirstCourseProject\obj\Debug\FirstCourseProject.csproj.GenerateResource.cache
+C:\Users\Wlady\OneDrive\ЖГМК\Рабочий стол\FirstCourseProject\FirstCourseProject\obj\Debug\FirstCourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Wlady\OneDrive\ЖГМК\Рабочий стол\FirstCourseProject\FirstCourseProject\obj\Debug\FirstCourseProject.exe
+C:\Users\Wlady\OneDrive\ЖГМК\Рабочий стол\FirstCourseProject\FirstCourseProject\obj\Debug\FirstCourseProject.pdb
+C:\Users\Wlady\OneDrive\ЖГМК\Рабочий стол\FirstCourseProject\FirstCourseProject\obj\Debug\HillCipher.Form1.resources
